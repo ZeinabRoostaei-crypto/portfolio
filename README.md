@@ -26,7 +26,7 @@ portfolio/
 
 ## 📸 Screenshot
 
-![Portfolio Screenshot](screenshot-desktop.png)
+![Portfolio Screenshot](screenshot-desktop)
 
 ## 🚀 Run Locally
 
