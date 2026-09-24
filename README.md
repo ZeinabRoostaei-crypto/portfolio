@@ -24,6 +24,10 @@ portfolio/
 ├── README.md
 └── profile.jpg
 
+## 📸 Screenshot
+
+![Portfolio Screenshot](screenshot-desktop.png)
+
 ## 🚀 Run Locally
 
 Just open `index.html` in your browser.
